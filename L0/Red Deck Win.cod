@@ -14,7 +14,7 @@
         <card number="4" price="0" name="Monastery Swiftspear"/>
         <card number="2" price="0" name="Frenzied Goblin"/>
         <card number="3" price="0" name="Magma Jet"/>
-        <card number="4" price="0" name="Borderland Marauder"/>
+        <card number="4" price="0" name="War-Name Aspirant"/>
     </zone>
     <zone name="side">
         <card number="4" price="0" name="Harness by Force"/>
