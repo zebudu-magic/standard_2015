@@ -20,5 +20,6 @@
     </zone>
     <zone name="side">
         <card number="3" price="0" name="Hornet Nest"/>
+        <card number="2" price="0" name="Windstorm"/>
     </zone>
 </cockatrice_deck>
