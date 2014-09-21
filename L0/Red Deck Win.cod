@@ -23,6 +23,6 @@
         <card number="1" price="0" name="Titan's Strength"/>
         <card number="1" price="0" name="Mountain"/>
         <card number="4" price="0" name="Ashcloud Phoenix"/>
-        <card number="1" price="0" name="Howl of the Horde"/>
+        <card number="3" price="0" name="Howl of the Horde"/>
     </zone>
 </cockatrice_deck>
