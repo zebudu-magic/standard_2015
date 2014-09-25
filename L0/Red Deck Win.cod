@@ -10,19 +10,19 @@
         <card number="2" price="0" name="Titan's Strength"/>
         <card number="4" price="0" name="Lightning Strike"/>
         <card number="4" price="0" name="Stoke the Flames"/>
-        <card number="4" price="0" name="Eidolon of the Great Revel"/>
+        <card number="3" price="0" name="Eidolon of the Great Revel"/>
         <card number="4" price="0" name="Monastery Swiftspear"/>
         <card number="3" price="0" name="Frenzied Goblin"/>
         <card number="4" price="0" name="War-Name Aspirant"/>
         <card number="2" price="0" name="Searing Blood"/>
-        <card number="1" price="0" name="Hall of Triumph"/>
+        <card number="2" price="0" name="Hall of Triumph"/>
     </zone>
     <zone name="side">
         <card number="4" price="0" name="Harness by Force"/>
         <card number="2" price="0" name="Searing Blood"/>
-        <card number="1" price="0" name="Titan's Strength"/>
         <card number="1" price="0" name="Mountain"/>
         <card number="4" price="0" name="Ashcloud Phoenix"/>
         <card number="3" price="0" name="Howl of the Horde"/>
+        <card number="1" price="0" name="Eidolon of the Great Revel"/>
     </zone>
 </cockatrice_deck>
