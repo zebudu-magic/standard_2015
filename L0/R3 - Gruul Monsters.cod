@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Sylvan Caryatid"/>
+        <card number="4" price="0" name="Courser of Kruphix"/>
+        <card number="4" price="0" name="Polukranos, World Eater"/>
+        <card number="2" price="0" name="Stormbreath Dragon"/>
+        <card number="2" price="0" name="Xenagos, the Reveler"/>
+        <card number="4" price="0" name="Goblin Rabblemaster"/>
+        <card number="2" price="0" name="Nissa, Worldwaker"/>
+        <card number="3" price="0" name="Ashcloud Phoenix"/>
+        <card number="1" price="0" name="Xenagos, God of Revels"/>
+        <card number="2" price="0" name="Boon Satyr"/>
+        <card number="4" price="0" name="Wooded Foothills"/>
+        <card number="4" price="0" name="Temple of Abandon"/>
+        <card number="7" price="0" name="Mountain"/>
+        <card number="9" price="0" name="Forest"/>
+        <card number="4" price="0" name="Magma Jet"/>
+        <card number="4" price="0" name="Elvish Mystic"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Circle of Flame"/>
+        <card number="2" price="0" name="Arc Lightning"/>
+    </zone>
+</cockatrice_deck>
